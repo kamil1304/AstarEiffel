@@ -1,0 +1,3 @@
+P_control: 0.80
+I_control: 0.60
+D_control: 0.40
